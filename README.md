@@ -15,4 +15,7 @@
     - Website: [leave-ukraine.com](https://leaveukraine.com/)
     - [Project board](https://github.com/orgs/Ukraine-Relief-Efforts/projects/1/views/4)
     - Seems to be a website about info on where to cross the border into neighbouring countries
+- [ua-2022-map](https://github.com/openstreetmap-polska/ua-2022-map) - Python / JS
+    - Website: [dopomoha.pl](https://dopomoha.pl/)
+    - Map of reception points for refugees near Polish-Ukrainian border   
 
