@@ -17,5 +17,7 @@
     - Seems to be a website about info on where to cross the border into neighbouring countries
 - [ua-2022-map](https://github.com/openstreetmap-polska/ua-2022-map) - Python / JS
     - Website: [dopomoha.pl](https://dopomoha.pl/)
-    - Map of reception points for refugees near Polish-Ukrainian border   
+    - Map of reception points for refugees near Polish-Ukrainian border
+- [Blood-stained Ukrainian flag for your website with custom text](https://github.com/hejny/Ukraine) - JS
+    - JS script adding a blood-stained Ukrainian flag should you wish to add it to your website to show your opposition to war
 
