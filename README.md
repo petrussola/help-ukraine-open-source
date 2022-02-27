@@ -20,8 +20,11 @@
     - Map of reception points for refugees near Polish-Ukrainian border
 - [Blood-stained Ukrainian flag for your website with custom text](https://github.com/hejny/Ukraine) - JS
     - JS script adding a blood-stained Ukrainian flag should you wish to add it to your website to show your opposition to war
-- [uacrisisboard ](https://github.com/fuzzbuck/uatranshelp) - Rust
+- [uacrisisboard](https://github.com/fuzzbuck/uatranshelp) - Rust
     - Website: [uacrisisboard.com](https://uacrisisboard.com/)
     - The premise of this project is that volunteers can create 'offers' and those in need can request such. It is meant as a replacement for hundreds of facebook groups and scattered information.
     - Seems they need help translating content: `Help translate and proofread the project! The locale files used by the website are located here: https://github.com/fuzzbuck/uatranshelp/tree/dev/frontend/locales`
+- [Stop the war widget for websites](https://github.com/ukraine-not-war/stop-war) - JS
+    - Nice looking widget to add to your website - open modal with info how to help upon click
+    - In EN, UA and RU so far. Just asked and they seem to need help with translations.
 
