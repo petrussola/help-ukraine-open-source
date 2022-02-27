@@ -27,4 +27,7 @@
 - [Stop the war widget for websites](https://github.com/ukraine-not-war/stop-war) - JS
     - Nice looking widget to add to your website - open modal with info how to help upon click
     - In EN, UA and RU so far. Just asked and they seem to need help with translations.
+- [Live Action Map](https://github.com/kinshukdua/LiveActionMap) - Python
+    - Website: [live-action-map.com](https://live-action-map.com/)
+    - `An attempt to use open source data on Twitter to map areas with active conflict. Right now it is used for the Ukraine-Russia conflict, but in the future I hope it can be used for all sorts of dangerous situations.`
 
