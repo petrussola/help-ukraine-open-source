@@ -1,6 +1,6 @@
 # List of open source projects aimed at helping Ukraine and Ukrainians during this conflict
 
-#### I am selecting the ones that have at least a reasonable web or product working in production. There seem to be many more WIP. These are the ones I have found so far, please add more to the list if you find them
+#### I am selecting the ones that have at least a reasonable web or product working in production and straightforward enough that I could explain to my grandma. I see projects related to blockchain and cyberwarfare. I am staying clear of these repos for the simple reason that I don't understand what's going on inside. These are the ones I have found so far, please add more to the list if you find them 🙏
 
 ## Help people fleeing war
 
