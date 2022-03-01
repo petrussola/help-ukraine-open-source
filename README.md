@@ -24,6 +24,9 @@
     - Website: [uacrisisboard.com](https://uacrisisboard.com/)
     - The premise of this project is that volunteers can create 'offers' and those in need can request such. It is meant as a replacement for hundreds of facebook groups and scattered information.
     - Seems they need help translating content: `Help translate and proofread the project! The locale files used by the website are located here: https://github.com/fuzzbuck/uatranshelp/tree/dev/frontend/locales`
+- [Support a random Ukrainian creator](https://github.com/Support-Ukrainian-Creators-and-Coders/random-supporter) JS/HTML
+    - Website: [support-ukrainian-creators-and-coders.github.io](https://support-ukrainian-creators-and-coders.github.io/random-supporter/.)
+    - A website that interacts with a list of Ukrainiain creators / developers, sending donors on a different developer's page/github with each click. Aims to make supporting ukrainian devs engaging, random and easy.
 
 ## Widgets
 
@@ -32,6 +35,9 @@
 - [Stop the war widget for websites](https://github.com/ukraine-not-war/stop-war) - JS
     - Nice looking widget to add to your website - open modal with info how to help upon click
     - In EN, UA and RU so far. Just asked and they seem to need help with translations.
+- [Stop The War Flag](https://github.com/core-hacked/in-solidarity-with-ukraine) - HTML/CSS
+    - Little Ukrainian flag with "Stop War" in it that you can add to your website.
+    - I love the `<ukr>` tag!   
 
 ## Conflict tracking apps
 
