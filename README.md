@@ -27,6 +27,9 @@
 - [Support a random Ukrainian creator](https://github.com/Support-Ukrainian-Creators-and-Coders/random-supporter) JS/HTML
     - Website: [support-ukrainian-creators-and-coders.github.io](https://support-ukrainian-creators-and-coders.github.io/random-supporter/.)
     - A website that interacts with a list of Ukrainiain creators / developers, sending donors on a different developer's page/github with each click. Aims to make supporting ukrainian devs engaging, random and easy.
+- [AfricansInUkraine.net](https://github.com/adamjgrant/AfricansInUkraine.net) - HTML/CSS/JS
+    - Website: [africansinukraine.net](https://africansinukraine.net/) 
+    - Project for the african community in Ukraine to share information and news. 
 
 ## Widgets
 
@@ -38,6 +41,8 @@
 - [Stop The War Flag](https://github.com/core-hacked/in-solidarity-with-ukraine) - HTML/CSS
     - Little Ukrainian flag with "Stop War" in it that you can add to your website.
     - I love the `<ukr>` tag!   
+- [StandWithUkraine](https://github.com/peterkelm/StandWithUkraine) - CSS
+    - `#StandWithUkraine html/css banner. Show solidarity with the people of Ukraine - right on your website!`
 
 ## Conflict tracking apps
 
@@ -45,3 +50,17 @@
     - Website: [live-action-map.com](https://live-action-map.com/)
     - `An attempt to use open source data on Twitter to map areas with active conflict. Right now it is used for the Ukraine-Russia conflict, but in the future I hope it can be used for all sorts of dangerous situations.`
 
+## Fund raising and awareness raising
+
+- [ukraineWartimeArt](https://github.com/kon-rad/ukraineWartimeArt) - Next.js
+    - Website: [ukraine-wartime-art.vercel.app](https://ukraine-wartime-art.vercel.app/)
+    - `We aim to raise aid funds for Ukraine with a series of NFT collections from a range of artists. Each collection has a unique story and cause. Become a part of world history by supporting Ukraine in fending off the aggression!`
+- [mails-in-support-of-UA](https://github.com/alexbud1/mails-in-support-of-UA) - Python
+    - `Using this repository you can send mails to multiple recipients.Was created in support of Ukraine, to turn society`s attention to war.`
+    - It has a template email and before / after photos - it can be useful for those wishing to raise awareness of this war in Russia to fight disnformation there.
+
+## Misc
+- [controlCitiesUkraine](https://github.com/vi-enne/controlCitiesUkraine) - R
+    - Website: [datawrapper.dwcdn.net/tIDxs](https://datawrapper.dwcdn.net/tIDxs)
+    - `This repo contains the code for scraping the Wikipedia's list Cities and towns during the Russo-Ukrainian War and its output.`
+    - `PLEASE USE CAUTION IN CONSULTING THESE DATA: Information in this list may change rapidly as the event progresses. Initial news reports may be unreliable. The last updates to this list may not reflect the most current information.`
