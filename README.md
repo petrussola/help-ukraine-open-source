@@ -30,6 +30,12 @@
 - [AfricansInUkraine.net](https://github.com/adamjgrant/AfricansInUkraine.net) - HTML/CSS/JS
     - Website: [africansinukraine.net](https://africansinukraine.net/) 
     - Project for the african community in Ukraine to share information and news. 
+- [InfoUkraine](https://github.com/ViorelMocanu/InfoUkraine) - HTML/CSS/JS 
+    - Website: [viorelmocanu.github.io/InfoUkraine](https://viorelmocanu.github.io/InfoUkraine/)
+    - `This project is meant to be a source of information for Romanians, Ukrainians and everyone else interested in resources and ways to help the war effort and the refugees of the war raging in Ukraine.`
+- [support-ukraine](https://github.com/PetroSilenius/support-ukraine) - JS/TS
+    - Website: [supportukraine.netlify.app](https://supportukraine.netlify.app/)  
+    - `This is a site for getting information on how to provide support for Ukraine or seek help as a person affected by the war. The site crowdsources managing listed causes, translating the site and developing it further.`
 
 ## Widgets
 
@@ -43,6 +49,8 @@
     - I love the `<ukr>` tag!   
 - [StandWithUkraine](https://github.com/peterkelm/StandWithUkraine) - CSS
     - `#StandWithUkraine html/css banner. Show solidarity with the people of Ukraine - right on your website!`
+- [SpreadTheNews](https://github.com/newseverywhere/SpreadTheNews) - JS
+    - `An easy way to include and show a news feed about Russia's invasion in Ukraine to your websites Russian languaged visitors. Authorities are blocking access to independent news sources, now we make it available everywhere!` 
 
 ## Conflict tracking apps
 
@@ -59,8 +67,21 @@
     - `Using this repository you can send mails to multiple recipients.Was created in support of Ukraine, to turn society`s attention to war.`
     - It has a template email and before / after photos - it can be useful for those wishing to raise awareness of this war in Russia to fight disnformation there.
 
+## React to IPs from Russia
+
+- [express-putin](https://github.com/limesquid/express-putin) - Node/Express
+    - `Express middleware to reject requests from all Russian IPs.`
+    - `Why did you name a package after a war criminal? So that people never forget who is responsible for all this. And because it's way more catchy than express-stop-russian-invasion-on-ukraine.`
+- [swsp-wordpress-plugin](https://github.com/stopwarstopputin/swsp-wordpress-plugin) - PHP
+    - `allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war.` 
+- [messages-for-peace](https://github.com/cyberFae/messages-for-peace) - JS
+    - `Displays a popup on your site (ONLY if being visited from Russia/Ukraine/Belarus) with a 50/50 chance of displaying either "Putin is lying to you" or "War Is Over (If You Want It)" in Russian.`
+
 ## Misc
 - [controlCitiesUkraine](https://github.com/vi-enne/controlCitiesUkraine) - R
     - Website: [datawrapper.dwcdn.net/tIDxs](https://datawrapper.dwcdn.net/tIDxs)
     - `This repo contains the code for scraping the Wikipedia's list Cities and towns during the Russo-Ukrainian War and its output.`
     - `PLEASE USE CAUTION IN CONSULTING THESE DATA: Information in this list may change rapidly as the event progresses. Initial news reports may be unreliable. The last updates to this list may not reflect the most current information.`
+- [how-did-they-respond](https://github.com/Syarol/how-did-they-respond) - Vue
+    - Website: [how-did-they-respond.onrender.com](https://how-did-they-respond.onrender.com/)   
+    - `Many companies declared their own statements on the current war with their actions on it. This repository is created for collecting them.`
