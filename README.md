@@ -53,7 +53,7 @@
     - `An easy way to include and show a news feed about Russia's invasion in Ukraine to your websites Russian languaged visitors. Authorities are blocking access to independent news sources, now we make it available everywhere!` 
 - [StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - HTML
     - `This repository contains Readme Banners (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.` 
-    - I love the  "Russian warship | got fuck yourself" badge they [have created](https://github.com/vshymanskyy/StandWithUkraine/blob/main/badges/RussianWarship.svg) 👏
+    - I love the [![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) badge they [have created](https://github.com/vshymanskyy/StandWithUkraine/blob/main/badges/RussianWarship.svg) 👏
 
 ## Conflict tracking apps
 
