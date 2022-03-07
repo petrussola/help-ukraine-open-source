@@ -51,6 +51,8 @@
     - `#StandWithUkraine html/css banner. Show solidarity with the people of Ukraine - right on your website!`
 - [SpreadTheNews](https://github.com/newseverywhere/SpreadTheNews) - JS
     - `An easy way to include and show a news feed about Russia's invasion in Ukraine to your websites Russian languaged visitors. Authorities are blocking access to independent news sources, now we make it available everywhere!` 
+- [StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - HTML
+    - `This repository contains Readme Banners (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.` 
 
 ## Conflict tracking apps
 
