@@ -36,11 +36,14 @@
 - [support-ukraine](https://github.com/PetroSilenius/support-ukraine) - JS/TS
     - Website: [supportukraine.netlify.app](https://supportukraine.netlify.app/)  
     - `This is a site for getting information on how to provide support for Ukraine or seek help as a person affected by the war. The site crowdsources managing listed causes, translating the site and developing it further.`
+- [europehelp.info](https://github.com/emergenzeHack/europehelp.info) - Jupyter Notebook
+    - Website: [www.europehelp.info](https://www.europehelp.info/)
+    - A website to `collect, verify and disseminate useful information in emergency`. Seems to be focused on Italy. In Italian and English.
 
 ## Widgets
 
-- [Blood-stained Ukrainian flag for your website with custom text](https://github.com/hejny/Ukraine) - JS
-    - JS script adding a blood-stained Ukrainian flag should you wish to add it to your website to show your opposition to war
+- [Stop war on Ukraine](https://github.com/hejny/Ukraine) - Typescript
+    - `Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.`
 - [Stop the war widget for websites](https://github.com/ukraine-not-war/stop-war) - JS
     - Nice looking widget to add to your website - open modal with info how to help upon click
     - In EN, UA and RU so far. Just asked and they seem to need help with translations.
@@ -54,12 +57,17 @@
 - [StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine) - HTML
     - `This repository contains Readme Banners (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.` 
     - I love the [![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) badge they [have created](https://github.com/vshymanskyy/StandWithUkraine/blob/main/badges/RussianWarship.svg) 👏
+- [Ukraine](https://github.com/hejny/Ukraine) - Typescript
+    - `Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.`
 
 ## Conflict tracking apps
 
 - [Live Action Map](https://github.com/kinshukdua/LiveActionMap) - Python
     - Website: [live-action-map.com](https://live-action-map.com/)
     - `An attempt to use open source data on Twitter to map areas with active conflict. Right now it is used for the Ukraine-Russia conflict, but in the future I hope it can be used for all sorts of dangerous situations.`
+- [ukraine-war-heatmap](https://github.com/ruarq/ukraine-war-heatmap) - Python
+    - Website: [ruarq.github.io/ukraine-war-heatmap](https://ruarq.github.io/ukraine-war-heatmap/)
+    - `This project takes submissions about Ukraine from subreddits like r/CombatFootage, r/UkraineWarVideoReport, r/ukraine, r/worldnews, r/UkraineInvasionVideos and r/UkrainevRussia and translates them into a heatmap where most of the stuff related to the war in Ukraine is happening.`
 
 ## Fund raising and awareness raising
 
