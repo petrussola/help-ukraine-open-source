@@ -39,6 +39,9 @@
 - [europehelp.info](https://github.com/emergenzeHack/europehelp.info) - Jupyter Notebook
     - Website: [www.europehelp.info](https://www.europehelp.info/)
     - A website to `collect, verify and disseminate useful information in emergency`. Seems to be focused on Italy. In Italian and English.
+- [infohelpua.com](https://infohelpua.com/) - Next.js, Keystone, PostgreSQL
+    - Website: [infohelpua.com](https://infohelpua.com)
+    - A website with lots of structured, verified and constantly updated information for people affected by the war in Ukraine.
 
 ## Widgets
 
