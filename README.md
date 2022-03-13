@@ -87,6 +87,10 @@
     - `allows you to block all visitors from Russia & Belarus and display a custom message to stand up against Putin and to stop war.` 
 - [messages-for-peace](https://github.com/cyberFae/messages-for-peace) - JS
     - `Displays a popup on your site (ONLY if being visited from Russia/Ukraine/Belarus) with a 50/50 chance of displaying either "Putin is lying to you" or "War Is Over (If You Want It)" in Russian.`
+- [Russia Sanctions Project](https://github.com/Russia-Sanctions)
+    - `Blocks requests from Russian and Belarusian IP addresses.`
+    - `Displays a polite message explaining the sanctions and encouraging users to protest against the war.`
+    - `Plugins available for Express.js (Node), Nuxt.js (Node), Laravel (PHP), and AWS CloudFront`
 
 ## Misc
 - [controlCitiesUkraine](https://github.com/vi-enne/controlCitiesUkraine) - R
