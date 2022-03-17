@@ -42,6 +42,12 @@
 - [infohelpua.com](https://infohelpua.com/) - Next.js, Keystone, PostgreSQL
     - Website: [infohelpua.com](https://infohelpua.com)
     - A website with lots of structured, verified and constantly updated information for people affected by the war in Ukraine.
+- [ukrainehelp](https://github.com/martonfekete/ukrainehelp) - JS
+    - Website: [ukrainehelp.hu](https://ukrainehelp.hu/)
+    - `For those in need of help in Hungary. On this site you can find information on available help, a list of organizations that can help, and a list of useful links.`
+- [site-source](https://github.com/StandForUkraine/site-source) - TS/JS
+    - Website: [standforukraine.com](https://standforukraine.com/)
+    - `Website to help Ukrainian Military & Humanitarian organizations`
 
 ## Widgets
 
@@ -62,8 +68,10 @@
     - I love the [![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) badge they [have created](https://github.com/vshymanskyy/StandWithUkraine/blob/main/badges/RussianWarship.svg) 👏
 - [Ukraine](https://github.com/hejny/Ukraine) - Typescript
     - `Help Ukraine - add ribbon with Ukraine flag into the website you manage, show the anti-war message to Russian users, or block them from your service.`
+- [prapor-widget](https://github.com/mkotsur/prapor-widget) - TS/JS
+    - `Add a banner to your web page and publicly show support and recognition to the people of Ukraine: millions of refugees, hundreds of thousands of military personnel, thousands injured and killed.`
 
-## Conflict tracking apps
+## War tracking apps
 
 - [Live Action Map](https://github.com/kinshukdua/LiveActionMap) - Python
     - Website: [live-action-map.com](https://live-action-map.com/)
@@ -71,6 +79,12 @@
 - [ukraine-war-heatmap](https://github.com/ruarq/ukraine-war-heatmap) - Python
     - Website: [ruarq.github.io/ukraine-war-heatmap](https://ruarq.github.io/ukraine-war-heatmap/)
     - `This project takes submissions about Ukraine from subreddits like r/CombatFootage, r/UkraineWarVideoReport, r/ukraine, r/worldnews, r/UkraineInvasionVideos and r/UkrainevRussia and translates them into a heatmap where most of the stuff related to the war in Ukraine is happening.`
+- [ukraine-war-map-twitter-bot](https://github.com/a2435191/ukraine-war-map-twitter-bot) - Python
+    - Twitter account: [twitter.com/ua_invasion_bot](https://twitter.com/ua_invasion_bot)
+    - `A Twitter bot that posts a map of the 2022 Ukraine conflict every time Wikipedia updates it`
+- [UA-Refugee-Migration-Tracker](https://github.com/pedrocoutinhosilva/UA-Refugee-Migration-Tracker) - R
+    - Website: [sparktuga.shinyapps.io/shinyukraini](https://sparktuga.shinyapps.io/shinyukraini/)
+    - `A R/Shiny dashboard to track Ukrainian Refugees movement across the border and neighboring countries. It feeds of existing live data sources that are updated multiple times a day to keep data as up to date as possible.`
 
 ## Fund raising and awareness raising
 
@@ -103,3 +117,11 @@
 - [how-did-they-respond](https://github.com/Syarol/how-did-they-respond) - Vue
     - Website: [how-did-they-respond.onrender.com](https://how-did-they-respond.onrender.com/)   
     - `Many companies declared their own statements on the current war with their actions on it. This repository is created for collecting them.`
+- [SpellingUkraine](https://github.com/Tyrrrz/SpellingUkraine) - TS/JS
+    - Website: [spellingukraine.com/](https://spellingukraine.com/)
+    - `SpellingUkraine is a website where you can quickly look up the correct English spelling of Ukrainian cities, names, and other words.`
+    - `While Russia continuously attempts to undermine and, ultimately, erase Ukrainian culture, taking a moment of your time to ensure the correct spelling is another way that you can #StandWithUkraine in its fight for freedom.`
+- [ua-anti-spam-bot](https://github.com/MoC-OSS/ua-anti-spam-bot) - JS
+    - Link to Telegram bot: [t.me/UaAntiSpam_bot](https://t.me/UaAntiSpam_bot)
+    - `This bot deletes messages in your chats with strategic locations and mentions of the actions of the Armed Forces so that the enemy does not gain access to them. People do not understand that it is dangerous to report their location and the location of our troops!`
+
