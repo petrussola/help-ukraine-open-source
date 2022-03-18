@@ -124,4 +124,6 @@
 - [ua-anti-spam-bot](https://github.com/MoC-OSS/ua-anti-spam-bot) - JS
     - Link to Telegram bot: [t.me/UaAntiSpam_bot](https://t.me/UaAntiSpam_bot)
     - `This bot deletes messages in your chats with strategic locations and mentions of the actions of the Armed Forces so that the enemy does not gain access to them. People do not understand that it is dangerous to report their location and the location of our troops!`
+- [boycott-brands-supporting-war](https://github.com/petrussola/boycott-brands-supporting-war) - JS
+    - Chrome extension that highlights the products from western companies that have refused to leave the Russian market. By continuing to pay taxes they implictely support the war in Ukraine. Currently available in Tesco.ie and Tesco.com.
 
