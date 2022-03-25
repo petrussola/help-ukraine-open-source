@@ -48,6 +48,9 @@
 - [site-source](https://github.com/StandForUkraine/site-source) - TS/JS
     - Website: [standforukraine.com](https://standforukraine.com/)
     - `Website to help Ukrainian Military & Humanitarian organizations`
+- [IgorVaryvoda/Help-Ukraine](https://github.com/IgorVaryvoda/Help-Ukraine) - JS/Vue
+    - Website: [uahelp.me](https://www.uahelp.me/)
+    - `A curated list of resources to help Ukraine`: refugees, army, hire ukrainians, get information from reliable sources & share it on social media, Help fight propaganda & more!
 
 ## Widgets
 
