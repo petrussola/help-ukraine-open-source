@@ -128,6 +128,7 @@
 - Website: [how-did-they-respond.onrender.com](https://how-did-they-respond.onrender.com/)   
 - `Many companies declared their own statements on the current war with their actions on it. This repository is created for collecting them.`
 #### [petrussola/boycott-brands-supporting-war](https://github.com/petrussola/boycott-brands-supporting-war) - JS
+- Website: [chrome.google.com/webstore/detail/boycott-brands-refusing-t](https://chrome.google.com/webstore/detail/boycott-brands-refusing-t/dhmogilcchlbghpooilnehefmlpaemcl)
 - Chrome extension that highlights the products from western companies that have refused to leave the Russian market. By continuing to pay taxes they implictely support the war in Ukraine. Currently available in Tesco.ie and Tesco.com.
 ### [veelenga/rblist.info](https://github.com/veelenga/rblist.info) - TS/Ruby
 - Website: [rblist.info](https://rblist.info/)
