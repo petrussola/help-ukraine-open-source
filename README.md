@@ -54,6 +54,9 @@
 #### [Koeroesi86/help.koro.si](https://github.com/Koeroesi86/help.koro.si) - React
 - Website: [help.koro.si/](https://help.koro.si/)
 - `A platform to help donations reach the place where they are most needed.` Seems to be focused for needs in Hungary.
+### [narviii/ukraine2canada](https://github.com/narviii/ukraine2canada) - JS
+- Website: [ua2canada.info](https://www.ua2canada.info/)
+- `How to get to Canada. Informational website with materials accumulated by participants and moderators of the UA to Canada chat`
 
 ## Widgets
 
