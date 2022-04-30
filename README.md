@@ -8,7 +8,7 @@
 - Website: [find-shelter.com](https://www.find-shelter.com/)
 - Website aiming to help Ukrainian refugees coming to France find a shelter.
 #### [dejanjacimovic/europratsya](https://github.com/dejanjacimovic/europratsya) - React/Gatsby
-- Website: [europratsya.vercel.app](https://europratsya.vercel.app/)
+- Website: [europratsya.com](https://europratsya.com/)
 - The goal of this project is to help Ukrainians citizens:
     - Get their CV's translated;
     - Find job opportunities in EU (in English, and Ukrainian);
@@ -24,21 +24,12 @@
 - Website: [uacrisisboard.com](https://uacrisisboard.com/)
 - The premise of this project is that volunteers can create 'offers' and those in need can request such. It is meant as a replacement for hundreds of facebook groups and scattered information.
 - Seems they need help translating content: `Help translate and proofread the project! The locale files used by the website are located here: https://github.com/fuzzbuck/uatranshelp/tree/dev/frontend/locales`
-#### [Support-Ukrainian-Creators-and-Coders/random-supporter](https://github.com/Support-Ukrainian-Creators-and-Coders/random-supporter) JS/HTML
-- Website: [support-ukrainian-creators-and-coders.github.io](https://support-ukrainian-creators-and-coders.github.io/random-supporter/.)
-- A website that interacts with a list of Ukrainiain creators / developers, sending donors on a different developer's page/github with each click. Aims to make supporting ukrainian devs engaging, random and easy.
 #### [adamjgrant/AfricansInUkraine.net](https://github.com/adamjgrant/AfricansInUkraine.net) - HTML/CSS/JS
 - Website: [africansinukraine.net](https://africansinukraine.net/) 
 - Project for the african community in Ukraine to share information and news. 
 #### [ViorelMocanu/InfoUkraine](https://github.com/ViorelMocanu/InfoUkraine) - HTML/CSS/JS 
 - Website: [viorelmocanu.github.io/InfoUkraine](https://viorelmocanu.github.io/InfoUkraine/)
 - `This project is meant to be a source of information for Romanians, Ukrainians and everyone else interested in resources and ways to help the war effort and the refugees of the war raging in Ukraine.`
-#### [PetroSilenius/support-ukraine](https://github.com/PetroSilenius/support-ukraine) - JS/TS
-- Website: [supportukraine.netlify.app](https://supportukraine.netlify.app/)  
-- `This is a site for getting information on how to provide support for Ukraine or seek help as a person affected by the war. The site crowdsources managing listed causes, translating the site and developing it further.`
-#### [emergenzeHack/europehelp.info](https://github.com/emergenzeHack/europehelp.info) - Jupyter Notebook
-- Website: [www.europehelp.info](https://www.europehelp.info/)
-- A website to `collect, verify and disseminate useful information in emergency`. Seems to be focused on Italy. In Italian and English.
 #### [martonfekete/ukrainehelp](https://github.com/martonfekete/ukrainehelp) - JS
 - Website: [ukrainehelp.hu](https://ukrainehelp.hu/)
 - `For those in need of help in Hungary. On this site you can find information on available help, a list of organizations that can help, and a list of useful links.`
