@@ -20,10 +20,6 @@
 #### [openstreetmap-polska/ua-2022-map](https://github.com/openstreetmap-polska/ua-2022-map) - Python / JS
 - Website: [dopomoha.pl](https://dopomoha.pl/)
 - Map of reception points for refugees near Polish-Ukrainian border
-#### [fuzzbuck/uacrisisboard](https://github.com/fuzzbuck/uatranshelp) - Rust
-- Website: [uacrisisboard.com](https://uacrisisboard.com/)
-- The premise of this project is that volunteers can create 'offers' and those in need can request such. It is meant as a replacement for hundreds of facebook groups and scattered information.
-- Seems they need help translating content: `Help translate and proofread the project! The locale files used by the website are located here: https://github.com/fuzzbuck/uatranshelp/tree/dev/frontend/locales`
 #### [adamjgrant/AfricansInUkraine.net](https://github.com/adamjgrant/AfricansInUkraine.net) - HTML/CSS/JS
 - Website: [africansinukraine.net](https://africansinukraine.net/) 
 - Project for the african community in Ukraine to share information and news. 
@@ -70,9 +66,6 @@
 
 ## War tracking apps
 
-#### [kinshukdua/LiveActionMap](https://github.com/kinshukdua/LiveActionMap) - Python
-- Website: [live-action-map.com](https://live-action-map.com/)
-- `An attempt to use open source data on Twitter to map areas with active conflict. Right now it is used for the Ukraine-Russia conflict, but in the future I hope it can be used for all sorts of dangerous situations.`
 #### [ruarq/ukraine-war-heatmap](https://github.com/ruarq/ukraine-war-heatmap) - Python
 - Website: [ruarq.github.io/ukraine-war-heatmap](https://ruarq.github.io/ukraine-war-heatmap/)
 - `This project takes submissions about Ukraine from subreddits like r/CombatFootage, r/UkraineWarVideoReport, r/ukraine, r/worldnews, r/UkraineInvasionVideos and r/UkrainevRussia and translates them into a heatmap where most of the stuff related to the war in Ukraine is happening.`
@@ -89,9 +82,6 @@
 
 ## Fund raising and awareness raising
 
-#### [kon-rad/ukraineWartimeArt](https://github.com/kon-rad/ukraineWartimeArt) - Next.js
-- Website: [ukraine-wartime-art.vercel.app](https://ukraine-wartime-art.vercel.app/)
-- `We aim to raise aid funds for Ukraine with a series of NFT collections from a range of artists. Each collection has a unique story and cause. Become a part of world history by supporting Ukraine in fending off the aggression!`
 #### [alexbud1/mails-in-support-of-UA](https://github.com/alexbud1/mails-in-support-of-UA) - Python
 - `Using this repository you can send mails to multiple recipients.Was created in support of Ukraine, to turn society`s attention to war.`
 - It has a template email and before / after photos - it can be useful for those wishing to raise awareness of this war in Russia to fight disnformation there.
