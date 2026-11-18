@@ -85,6 +85,7 @@
 #### [alexbud1/mails-in-support-of-UA](https://github.com/alexbud1/mails-in-support-of-UA) - Python
 - `Using this repository you can send mails to multiple recipients.Was created in support of Ukraine, to turn society`s attention to war.`
 - It has a template email and before / after photos - it can be useful for those wishing to raise awareness of this war in Russia to fight disnformation there.
+- [AidFrontUA](https://aidfrontua.com) - Open-source global directory of humanitarian aid programs, support initiatives, and war log updates for Ukraine.
 
 ## React to IPs from Russia
 
